@@ -21,7 +21,14 @@ public class LastNumberApp {
 		
 		//아래부분을 try~catch문을 사용하여 수정하세요
 		result = intArray[3];
-		System.out.println(result);
+		try {
+			for(int i=0;i<intArray.length;i++) {
+				
+			}
+		}catch (Exception e) {
+			System.out.println(result);
+		}
+		
 		
 	}
 

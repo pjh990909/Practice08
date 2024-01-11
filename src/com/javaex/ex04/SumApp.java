@@ -12,7 +12,7 @@ public class SumApp {
 		String numLine = sc.nextLine();
 
 		//코드를 작성하세요
-		
+		sum = 
 		
 		
 		System.out.println("합:" + sum);
